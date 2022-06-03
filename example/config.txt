@@ -1,0 +1,2 @@
+Prefix plugins/Bulla/example
+Plugin Bulla inputfile parameters.txt outputfile bulla.csv
